@@ -94,7 +94,7 @@ class Solution {
         A[0][0] = 0;    A[0][1] = 0;    A[0][2] = 0;
         A[1][0] = 0;    A[1][1] = 0;    A[1][2] = 1;
         A[2][0] = 1;    A[2][1] = 0;    A[2][2] = 0;
-        A[3][0] = 0;    A[3][1] = 0;    A[3][2] = 0; //test case provided in email
+        A[3][0] = 0;    A[3][1] = 0;    A[3][2] = 0; //edit this test array 
 
         System.out.println((new Solution(A)).solution());
     }
